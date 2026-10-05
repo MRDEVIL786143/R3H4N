@@ -11,7 +11,7 @@ app.secret_key = 'your_secret_key_here'  # Change this to a strong secret key
 
 # Simple user database (in production, use a proper database)
 users = {
-    'R3H4N': "R3H4N",
+    'R3H4NXR1M1': "R3H4NXR1M1",
     'R3H4N': 'ILOVEYOU',
     'R3H4N': 'UMAAH'
 }
